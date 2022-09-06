@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Maycol Rodriguez</h1>
-<h3 align="center">Un apasionado desarrollador frontend</h3>
+<h3 align="center">Desarrollador Frontend</h3>
 <hr>
 
 - 🌱 Actualmente estoy aprendiendo **Express, React.**
