@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></picture> **Sobre Mi**
 
 
-- 🌱 Actualmente estoy aprendiendo **Patrones de componentes en React, React-Query.**
+- 🌱 Actualmente estoy aprendiendo **Patrones de componentes en React y Data Science.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Mis repositorios](https://github.com/Maycol-Rodriguez?tab=repositories)
 
