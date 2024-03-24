@@ -38,24 +38,14 @@
 </p>
 
 <hr>
+
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maycol-rodriguez&theme=blueberry&border_radius=5" alt="GitHub Streak" /></a>
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=maycol-rodriguez&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=maycol-rodriguez&show_icons=true&theme=blueberry"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-    <img src="https://github-readme-stats.vercel.app/api?username=maycol-rodriguez&show_icons=true&theme=blueberry" />
-</picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maycol-rodriguez&show_icons=true&theme=blueberry" alt="GitHub Stats" width="400" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maycol-rodriguez&theme=blueberry&border_radius=5" alt="GitHub Streak" width="424" />
 </p>
 
 
 <hr>
-
 <p align="center">
  <a href="https://github.com/maycol-rodriguez"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maycol-rodriguez&theme=tokyonight&hide_border=true" alt="maycol-rodriguez"/></a>
 </p>
