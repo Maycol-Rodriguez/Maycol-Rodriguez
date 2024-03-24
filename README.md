@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Maycol Rodriguez</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Maycol Rodriguez</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=735&lines=Bachiller+En+Ingenier%C3%ADa+De+Sistemas+E+Inform%C3%A1tica;Desarrollador+Web+Full+Stack;Entusiasta+En+Data+Science+y+Machine+Learning" alt="Typing SVG" /></a>
