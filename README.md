@@ -30,13 +30,13 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b>Contacta conmigo</b>
 
 <p align="center">
-<a href="mailto:maycol.rodriguez.ma@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@maycol-rodriguez"/></a>
-<a href="https://linkedin.com/in/maycol-rodriguez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maycol-rodriguez"/></a>
-<a href="https://github.com/maycol-rodriguez" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="maycol-rodriguez"/></a>
-<a href="https://www.hackerrank.com/profile/Maycol_Rodriguez" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="maycol-rodriguez"/></a>
-<a href="https://leetcode.com/Maycol-Rodriguez/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="maycol-rodriguez"/></a>
-<a href="https://replit.com/@Maycol-Rodrigue" target="blank"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="maycol-rodriguez"/></a>
-<a href="https://stackoverflow.com/users/19927455/maycol-rodriguez" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="maycol-rodriguez"/></a>
+<a href="mailto:maycol.rodriguez.ma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@maycol-rodriguez"/></a>
+<a href="https://linkedin.com/in/maycol-rodriguez" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maycol-rodriguez"/></a>
+<a href="https://github.com/maycol-rodriguez" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="maycol-rodriguez"/></a>
+<a href="https://www.hackerrank.com/profile/Maycol_Rodriguez" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="maycol-rodriguez"/></a>
+<a href="https://leetcode.com/Maycol-Rodriguez/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="maycol-rodriguez"/></a>
+<a href="https://replit.com/@Maycol-Rodrigue" target="_blank"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="maycol-rodriguez"/></a>
+<a href="https://stackoverflow.com/users/19927455/maycol-rodriguez" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="maycol-rodriguez"/></a>
 </p>
 
 <hr>
