@@ -9,11 +9,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></picture> **Sobre Mi**
 
 
-- 🌱 Actualmente estoy aprendiendo **Express, React.**
+- 🌱 Actualmente estoy aprendiendo **Patrones de componentes en React, React-Query.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Maycol-Rodriguez?tab=repositories](https://github.com/Maycol-Rodriguez?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en [Mis repositorios](https://github.com/Maycol-Rodriguez?tab=repositories)
 
-- 💬 Pregúntame sobre **TypeScript, JavaScript, Dart, Flutter y Linux.**
+- 💬 Pregúntame sobre **React, Next, TypeScript, JavaScript, Dart, Flutter y Linux.**
 
 <hr>
 
@@ -24,6 +24,8 @@
     <img src="https://skillicons.dev/icons?i=next,react,astro,redux,mui,typescript,javascript,tailwindcss,bootstrap,html,css,jest,firebase,flutter,dart,nodejs,express,nest,java,python,selenium,wordpress,postgresql,mysql,mongodb,prisma,docker,github,git,githubactions,postman,vite,webpack,pnpm,linux" />
   </a>
 </p>
+
+<hr>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b>Contacta conmigo</b>
 
