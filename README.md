@@ -6,6 +6,17 @@
 
 <hr>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></picture> **Sobre Mi**
+
+
+- 🌱 Actualmente estoy aprendiendo **Express, React.**
+
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Maycol-Rodriguez?tab=repositories](https://github.com/Maycol-Rodriguez?tab=repositories)
+
+- 💬 Pregúntame sobre **TypeScript, JavaScript, Dart, Flutter y Linux.**
+
+<hr>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
@@ -14,18 +25,7 @@
   </a>
 </p>
 
-<hr>
-
-- 🌱 Actualmente estoy aprendiendo **Express, React.**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Maycol-Rodriguez?tab=repositories](https://github.com/Maycol-Rodriguez?tab=repositories)
-
-- 💬 Pregúntame sobre **TypeScript, JavaScript, Dart, Flutter y Linux.**
-
-- 📫 Cómo contactarme **maycol.rodriguez.ma@gmail.com**
-
-<hr>
-<h3 align="left">Conéctate conmigo:</h3>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b>Contacta conmigo</b>
 
 <p align="center">
 <a href="mailto:maycol.rodriguez.ma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@maycol-rodriguez"/></a>
@@ -39,13 +39,15 @@
 
 <hr>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maycol-rodriguez&show_icons=true&theme=blueberry" alt="GitHub Stats" width="400" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maycol-rodriguez&theme=blueberry&border_radius=5" alt="GitHub Streak" width="424" />
 </p>
 
-
 <hr>
+
 <p align="center">
  <a href="https://github.com/maycol-rodriguez"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maycol-rodriguez&theme=tokyonight&hide_border=true" alt="maycol-rodriguez"/></a>
 </p>
