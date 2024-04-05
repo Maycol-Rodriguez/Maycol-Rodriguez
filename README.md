@@ -11,9 +11,9 @@
 
 - 💼 Trabajo en proyectos utilizando React.js, Next.js, Tailwindcss, Nest.js, TypeScript, Spring Boot, TypeORM, Hibernate, Docker.
   
-- 🌱 Actualmente estoy aprendiendo **Patrones de componentes en React, Server Components y Data Science.**
+- 🌱 Actualmente estoy aprendiendo **Patrones de componentes en React, AWS y Data Science.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Mis repositorios](https://github.com/Maycol-Rodriguez?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en [El siguiente enlace](https://github.com/Maycol-Rodriguez?tab=repositories)
 
 - 💬 Pregúntame sobre **React, Next, TypeScript, JavaScript, Dart, Flutter y Linux.**
 
