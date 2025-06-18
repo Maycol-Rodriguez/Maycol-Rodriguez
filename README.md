@@ -1,28 +1,24 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Maycol Rodriguez</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=735&lines=Bachiller+en+Ingeniería+de+Sistemas+e+Informática;Con+Enfoque+en+el+Analisis+de+Datos;Especialista+en+Procesos+ETL+y+Big+Data;Experto+en+Modelado+y+Optimización+de+Datos" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=6500&pause=1000&center=true&vCenter=true&width=1200&lines=%F0%9F%93%8A+An%C3%A1lisis+de+datos+aplicado+a+la+toma+de+decisiones+empresariales;%F0%9F%A4%96+Desarrollo+de+soluciones+de+Machine+Learning+para+entornos+reales;%E2%98%81%EF%B8%8F+Experiencia+pr%C3%A1ctica+en+AWS%2C+GCP+y+entornos+de+datos+en+la+nube;%F0%9F%9B%A0%EF%B8%8F+Formaci%C3%B3n+en+Ingenier%C3%ADa+de+Datos+y+Arquitectura+de+pipelines;%F0%9F%93%88+Impulsando+la+transformaci%C3%B3n+digital+a+trav%C3%A9s+de+datos)](https://git.io/typing-svg)
 
 <hr>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></picture> **Sobre Mi**
 
-- 💼 Trabajo en el diseño, construcción y optimización de pipelines de datos, procesos ETL y almacenamiento en la nube con tecnologías como **BigQuery, AWS, GCP, SQL y Python**.
+- 💼 Diseño, construyo y optimizo pipelines de datos, implementando procesos **ETL/ELT** y arquitecturas escalables en la nube con **BigQuery**, **AWS**, **GCP**, **SQL** y **Python**.
 
-- 📊 Desarrollo dashboards interactivos y reportes en **Power BI y Tableau** para visualizar datos y facilitar la toma de decisiones estratégicas.
+- 📊 Creo dashboards interactivos y reportes automatizados con **Power BI** y **Tableau**, enfocados en visualizaciones claras que impulsan la **toma de decisiones estratégicas**.
 
-- ⚙️ Implemento técnicas de **Web Scraping y automatización** para extraer información relevante en tiempo real.
+- ⚙️ Automatizo la recolección de datos mediante **Web Scraping**, integrando flujos con **Python** para capturar **información en tiempo real**.
 
-- 🚀 Tengo experiencia en el manejo de grandes volúmenes de datos en entornos **Big Data**, con herramientas como **PySpark, Hadoop y Airflow**.
+- 🚀 Gestiono grandes volúmenes de datos en entornos **Big Data**, utilizando herramientas como **PySpark**, **Hadoop** y **Airflow** para **procesamiento distribuido** y **orquestación de workflows**.
 
-- 🌱 Actualmente estoy aprendiendo sobre **Machine Learning para análisis predictivo en entornos empresariales.**
+- 🤖 Actualmente **profundizo en Machine Learning aplicado al análisis prescriptivo**, desarrollando **modelos de ML** y explorando su integración en **proyectos empresariales reales**.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [GitHub](https://github.com/Maycol-Rodriguez?tab=repositories).
+- 📂 Puedes explorar mis proyectos de datos en [**GitHub**](https://github.com/Maycol-Rodriguez?tab=repositories), donde aplico estas habilidades en casos prácticos.
 
-- 💬 Pregúntame sobre **ETL, SQL, Python, Big Data, Cloud Computing y Visualización de Datos.**
+- 💬 Hablemos sobre **Ingeniería de Datos**, **ETL**, **Python**, **SQL**, **Big Data**, **Cloud** y **Visualización de Datos**. Siempre estoy abierto a colaborar y seguir aprendiendo.
 
 <hr>
 
@@ -30,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,mongodb,redis,kafka,tensorflow,sklearn,opencv,aws,gcp,docker,spring,jenkins,ubuntu,linux,githubactions,github,firebase,nextjs,react,astro,ts,tailwind,redux,prisma,postman,pnpm,jest,selenium,latex" />
+    <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,mongodb,redis,kafka,tensorflow,sklearn,opencv,aws,gcp,docker,spring,jenkins,ubuntu,linux,githubactions,github,firebase,nextjs,react,astro,ts,tailwind,redux,prisma,postman,pnpm,jest,selenium,latex&theme=light" />
   </a>
 </p>
 
