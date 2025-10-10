@@ -12,13 +12,11 @@
 
 - ⚙️ Automatizo la recolección de datos mediante **Web Scraping**, integrando flujos con **Python** para capturar **información en tiempo real**.
 
-- 🚀 Gestiono grandes volúmenes de datos en entornos **Big Data**, utilizando herramientas como **PySpark**, **Hadoop** y **Airflow** para **procesamiento distribuido** y **orquestación de workflows**.
+- 🚀 Gestiono grandes volúmenes de datos en entornos **Big Data**, utilizando herramientas como **PySpark** para **procesamiento distribuido** y **orquestación de workflows**.
 
 - 🤖 Actualmente **profundizo en Machine Learning aplicado al análisis prescriptivo**, desarrollando **modelos de ML** y explorando su integración en **proyectos empresariales reales**.
 
 - 📂 Puedes explorar mis proyectos de datos en [**GitHub**](https://github.com/Maycol-Rodriguez?tab=repositories), donde aplico estas habilidades en casos prácticos.
-
-- 💬 Hablemos sobre **Ingeniería de Datos**, **ETL**, **Python**, **SQL**, **Big Data**, **Cloud** y **Visualización de Datos**. Siempre estoy abierto a colaborar y seguir aprendiendo.
 
 <hr>
 
