@@ -1,18 +1,18 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Maycol Rodriguez</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=6500&pause=1000&center=true&vCenter=true&width=1200&lines=%F0%9F%A7%A0+Data+Scientist+%26+AI+Engineer;%F0%9F%A4%96+Desarrollo+de+Agentes+de+IA+con+LangGraph+y+arquitecturas+RAG;%F0%9F%9A%80+Modelos+a+escala+con+PySpark%2C+Databricks+y+entornos+Big+Data;%E2%98%81%EF%B8%8F+Arquitecturas+de+MLOps+productivas+en+AWS%2C+Azure+y+GCP;%F0%9F%93%88+Transformando+datos+masivos+en+decisiones+estrat%C3%A9gicas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=6500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Data+Scientist+%26+AI+Engineer;Desarrollo+de+Agentes+de+IA+con+LangGraph+y+arquitecturas+RAG;Modelos+a+escala+con+PySpark%2C+Databricks+y+entornos+Big+Data;Arquitecturas+MLOps+productivas+en+AWS%2C+Azure+y+GCP;Transformando+datos+en+decisiones+estrat%C3%A9gicas)](https://git.io/typing-svg)
 
 <hr>
 
 ## <picture><img src="https://media.giphy.com/media/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="45"></picture> **Sobre Mi**
 
-- 🤖 **Data Science & Machine Learning:** Diseño y despliego modelos **End-to-End** de **Pricing**, **Scoring** y **Churn**, optimizando la rentabilidad mediante el análisis de elasticidad y comportamiento del cliente.
+- **Data Science & Machine Learning:** Diseño y despliego modelos **End-to-End** de **Pricing**, **Scoring** y **Churn**, optimizando la rentabilidad mediante el análisis de elasticidad y comportamiento del cliente.
 
-- 🧠 **IA Generativa & Agentes:** Especialista en orquestar arquitecturas de **Agentes Inteligentes con LangGraph** y sistemas **RAG**, garantizando trazabilidad total con **LangSmith** para resolver lógica de negocio compleja.
+- **IA Generativa & Agentes:** Especialista en orquestar arquitecturas de **Agentes Inteligentes con LangGraph** y sistemas **RAG**, garantizando trazabilidad total con **LangSmith** para resolver lógica de negocio compleja.
 
-- 🚀 **Big Data a Escala:** Experto en el procesamiento distribuido de grandes volúmenes de datos utilizando **PySpark** y **Databricks** para el entrenamiento y despliegue de modelos de alta disponibilidad.
+- **Big Data a Escala:** Experto en el procesamiento distribuido de grandes volúmenes de datos utilizando **PySpark** y **Databricks** para el entrenamiento y despliegue de modelos de alta disponibilidad.
 
-- ⚙️ **Productivización & MLOps:** Implemento flujos automatizados de **CI/CD** y monitoreo de **Data Drift** en entornos **AWS (SageMaker)** y **Azure ML**, reduciendo el Time-to-Market de soluciones analíticas.
+- **Productivización & MLOps:** Implemento flujos automatizados de **CI/CD** y monitoreo de **Data Drift** en entornos **AWS (SageMaker)** y **Azure ML**, reduciendo el Time-to-Market de soluciones analíticas.
 
 
 
