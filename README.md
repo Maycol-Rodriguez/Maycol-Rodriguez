@@ -14,7 +14,17 @@
 
 - **Productivización & MLOps:** Implemento flujos automatizados de **CI/CD** y monitoreo de **Data Drift** en entornos **AWS (SageMaker)** y **Azure ML**, reduciendo el Time-to-Market de soluciones analíticas.
 
+<hr>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Proyectos Destacados</b>
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **Insurance Pricing Engine** | Predicción de siniestralidad y optimización de primas usando **XGBoost con distribución Tweedie**. Análisis de métricas Gini y Lift charts. | `Python`, `XGBoost`, `Pandas`, `Scikit-learn` |
+| **Multi-Agent RAG System** | Orquestación de agentes inteligentes con **LangGraph** para resolver lógica de negocio compleja, con trazabilidad en **LangSmith**. | `LangChain`, `LangGraph`, `OpenAI`, `ChromaDB` |
+| **End-to-End Big Data Pipeline** | Arquitectura en **Azure** para procesamiento distribuido con **Databricks (PySpark)** desde ADLS Gen2 hasta Power BI. | `PySpark`, `Databricks`, `Azure`, `Power BI` |
+| **Interactive Data Viz Dashboard** | Visualización de archivos **Parquet (+150MB)** en **Next.js** consumiendo de AWS S3 mediante **DuckDB-Wasm** para cómputo en cliente. | `Next.js`, `DuckDB`, `AWS S3`, `Tailwind` |
+| **Unified Pricing Scraper** | Pipeline de recolección de datos de competencia y estructuración en base de datos unificada para análisis de mercado. | `Python`, `Selenium`, `PostgreSQL`, `Docker` |
 
 <hr>
 
